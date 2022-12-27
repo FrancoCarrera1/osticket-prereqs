@@ -23,6 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10 VM in Azure
 - RDP
 - Web Platform Installer
+  -  MySQL 5.5
+  - All simple versions of x86PHP until 7.3
 - os Ticket
 - enable IIS
 
