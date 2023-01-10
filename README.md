@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10 VM in Azure
 - RDP
 - os Ticket
-- enable IIS
+- enable IIS and CGI
 - PHP manager for IIS
 -  MySQL 5.5.62
 
